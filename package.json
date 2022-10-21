@@ -1,16 +1,16 @@
 {
-"name": "singha369",
-"theme": "singha 369",
-"version": "10.3.10",
-"description": "singha 369 ทางเข้าหลักเว็บสล็อตเว็บตรง อันดับ 1 ให้โบนัสเครดิตฟรี",
-"keywords": [
-"singha 369",
-"singha 369 เครดิตฟรี",
-"singha 369 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/singha369",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "singha369",
+  "theme": "singha 369",
+  "version": "10.4.0",
+  "description": "singha 369 ทางเข้าหลักเว็บสล็อตเว็บตรง อันดับ 1 ให้โบนัสเครดิตฟรี",
+  "keywords": [
+    "singha 369",
+    "singha 369 เครดิตฟรี",
+    "singha 369 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/singha369",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
